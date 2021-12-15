@@ -1,0 +1,32 @@
+.body{
+    -fx-background-color: #f2f2f2;
+    -fx-font-weight: bold;
+    -fx-text-fill: #131516;
+}
+
+.container{
+    -fx-spacing: 1em;
+}
+
+.label-title{
+    -fx-max-width: 100000;
+    -fx-alignment: center;
+    -fx-text-alignment: center;
+    -fx-font-size: 2em;
+}
+
+.h-box-product-details .label{
+    -fx-padding: 0.4em 0 0 0;
+}
+
+.h-box-page-options{
+    -fx-spacing: 1em;
+}
+
+.h-box-page-options .button{
+    -fx-background-color: #d9d9d9;
+}
+
+.h-box-page-options .button:hover{
+    -fx-background-color: #a6a6a6;
+}
